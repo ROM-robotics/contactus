@@ -3,8 +3,8 @@
 <p></p>
 In the interest of long-term cooperation and make the after sales service clear,herein after we issue the official letter to guaranty under the detailed procedure.</p>
 <ul>
-<li>Guarantee period : 12 months</li>
-<li>Guarantee period start: Begin from the date goods departure.</li>
+<li>Guarantee period : <Strong>12 months</Strong></li>
+<li>Guarantee period start: <Strong>Begin from the date goods departure.</Strong></li>
 </ul>
 <ol>
 <li>Defective units to be found within the warranty period ( 12 months ) , we would repair for you for free ( including exchanging the spare parts , screen and power supply board etc. for you ) , and we bear one - way freight.</li>
